@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J7YEQmwFO3w=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\Zion\\Software\\Core\\ZionCore\\ZionCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.3\\microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512",
+    "C:\\Users\\ASI\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.3\\microsoft.net.illink.tasks.10.0.3.nupkg.sha512",
+    "C:\\Users\\ASI\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.3\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
