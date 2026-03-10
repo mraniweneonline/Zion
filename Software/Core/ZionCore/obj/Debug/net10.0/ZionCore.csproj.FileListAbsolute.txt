@@ -1,0 +1,15 @@
+D:\Github\Zion\Software\Core\ZionCore\bin\Debug\net10.0\ZionCore.exe
+D:\Github\Zion\Software\Core\ZionCore\bin\Debug\net10.0\ZionCore.deps.json
+D:\Github\Zion\Software\Core\ZionCore\bin\Debug\net10.0\ZionCore.runtimeconfig.json
+D:\Github\Zion\Software\Core\ZionCore\bin\Debug\net10.0\ZionCore.dll
+D:\Github\Zion\Software\Core\ZionCore\bin\Debug\net10.0\ZionCore.pdb
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.AssemblyInfoInputs.cache
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.AssemblyInfo.cs
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.csproj.CoreCompileInputs.cache
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.sourcelink.json
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.dll
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\refint\ZionCore.dll
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.pdb
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ZionCore.genruntimeconfig.cache
+D:\Github\Zion\Software\Core\ZionCore\obj\Debug\net10.0\ref\ZionCore.dll

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ZionCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa2ef7c359fe9304672142822604845e1718c815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b2ebacf583ebb9eb4865a127fa07c6b30417fc5a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ZionCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ZionCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
